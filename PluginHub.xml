@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>TODO: github-user/project-name</Id>
+  <FriendlyName>TODO: PluginTemplate</FriendlyName>
+  <Author>DJ8552</Author>
+  <Commit>TODO: Git commit hash</Commit>
+  <SourceDirectories>
+    <Directory>ParticleLimitRemover</Directory>
+  </SourceDirectories>
+  <Tooltip>Allows You To Alter The Particle Limit</Tooltip>
+  <Description>
+    Do "/plr" followed by an integer to change the limit.
+  </Description>
+</PluginData>
