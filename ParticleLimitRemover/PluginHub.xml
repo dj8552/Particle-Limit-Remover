@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
-  <Id>TODO: github-user/project-name</Id>
-  <FriendlyName>TODO: PluginTemplate</FriendlyName>
+  <Id>dj8552/Particle-Limit-Remover</Id>
+  <FriendlyName>Particle Limit Remover</FriendlyName>
   <Author>DJ8552</Author>
-  <Commit>TODO: Git commit hash</Commit>
+  <Commit>a275c11cc676e5283ed2416c7bc33c3594b5c6e0</Commit>
   <SourceDirectories>
     <Directory>ParticleLimitRemover</Directory>
   </SourceDirectories>
